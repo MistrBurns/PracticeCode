@@ -1,0 +1,9 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.deps.json
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.dll
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\netstandard2.0\ExtensionMethods.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.AssemblyInfo.cs
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.dll
+D:\Dropbox\VS\Visual Studio 2017\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\netstandard2.0\ExtensionMethods.pdb

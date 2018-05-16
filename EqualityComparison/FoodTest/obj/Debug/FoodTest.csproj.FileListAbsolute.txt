@@ -1,0 +1,16 @@
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\FoodTest.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\FoodTest.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\obj\Debug\FoodTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\obj\Debug\FoodTest.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\obj\Debug\FoodTest.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\FoodTest\obj\Debug\FoodTest.csproj.CoreCompileInputs.cache

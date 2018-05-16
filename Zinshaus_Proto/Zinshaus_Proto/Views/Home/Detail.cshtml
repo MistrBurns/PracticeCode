@@ -1,0 +1,87 @@
+﻿@model Zinshaus_Proto.Models.Zinssatz
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detail</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Stichtag)
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Stichtag)</td>
+        <th>
+    </tr>
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Strasse)
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Strasse)</td>
+        <th>
+    </tr>
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Hausnummer)
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Hausnummer)</td>
+        <th>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.KGNR)
+
+        </th>
+        <td>@Html.DisplayFor(model => model.KGNR)</td>
+        <th>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.KG_Name)
+
+        </th>
+        <td>@Html.DisplayFor(model => model.KG_Name)</td>
+        <th>
+    <tr>
+        <th>
+            Fläche
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Flaeche)</td>
+        <th>
+    </tr>
+     <tr>
+        <th>
+            Kapitalisierungszinssatz
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Kap_zs)</td>
+        <th>
+    </tr>
+    <tr>
+        <th>
+            Mietwert Neu in €
+
+        </th>
+        <td>@Html.DisplayFor(model => model.Mietnw_eur)</td>
+        <th>
+    </tr>
+    <tr>
+        <th>
+            Clusterung
+        </th>
+        <td>@Html.DisplayFor(model => model.Clusterung)</td>
+        <th>
+    </tr>
+</table>  
+
+@Html.ActionLink("Zurück zur Karte", "Index")
+
+
+

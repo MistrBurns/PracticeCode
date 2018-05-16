@@ -1,0 +1,7 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\bin\Debug\CustomDelegates.exe.config
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\bin\Debug\CustomDelegates.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\bin\Debug\CustomDelegates.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\obj\Debug\CustomDelegates.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\obj\Debug\CustomDelegates.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\obj\Debug\CustomDelegates.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\CustomDelegates\obj\Debug\CustomDelegates.pdb

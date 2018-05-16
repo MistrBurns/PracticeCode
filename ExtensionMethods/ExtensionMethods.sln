@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{F7B6F178-6565-46F9-9596-EE6E17F2A5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyExtensionsTest", "LegacyExtensionsTest\LegacyExtensionsTest.csproj", "{D5CB53C4-987B-4594-9D83-D18F24DF7B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B6F178-6565-46F9-9596-EE6E17F2A5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B6F178-6565-46F9-9596-EE6E17F2A5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B6F178-6565-46F9-9596-EE6E17F2A5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B6F178-6565-46F9-9596-EE6E17F2A5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CB53C4-987B-4594-9D83-D18F24DF7B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CB53C4-987B-4594-9D83-D18F24DF7B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CB53C4-987B-4594-9D83-D18F24DF7B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CB53C4-987B-4594-9D83-D18F24DF7B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A45B57F-F8A1-427B-8EDE-525F9B8DC88D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.csproj.CoreCompileInputs.cache

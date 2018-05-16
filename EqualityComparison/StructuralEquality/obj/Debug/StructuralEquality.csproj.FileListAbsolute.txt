@@ -1,0 +1,13 @@
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.exe.config
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.pdb
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.exe
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\obj\Debug\StructuralEquality.pdb
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.exe.config
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.exe
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StructuralEquality\bin\Debug\StructuralEquality.pdb

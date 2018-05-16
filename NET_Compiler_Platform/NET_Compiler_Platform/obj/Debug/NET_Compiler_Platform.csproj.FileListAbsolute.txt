@@ -1,0 +1,7 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\bin\Debug\NET_Compiler_Platform.exe.config
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\bin\Debug\NET_Compiler_Platform.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\bin\Debug\NET_Compiler_Platform.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\obj\Debug\NET_Compiler_Platform.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\obj\Debug\NET_Compiler_Platform.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\obj\Debug\NET_Compiler_Platform.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\NET_Compiler_Platform\NET_Compiler_Platform\obj\Debug\NET_Compiler_Platform.pdb

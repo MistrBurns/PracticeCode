@@ -1,0 +1,13 @@
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.exe.config
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.pdb
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.exe.config
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.exe
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\bin\Debug\StringPooling.pdb
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.csprojResolveAssemblyReference.cache
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.exe
+E:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringPooling\obj\Debug\StringPooling.pdb

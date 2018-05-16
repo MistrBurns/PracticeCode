@@ -1,0 +1,7 @@
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\bin\Debug\StringComparisons.exe.config
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\bin\Debug\StringComparisons.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\bin\Debug\StringComparisons.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\obj\Debug\StringComparison.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\obj\Debug\StringComparison.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\obj\Debug\StringComparisons.exe
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\StringComparisons\obj\Debug\StringComparisons.pdb

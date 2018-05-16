@@ -1,0 +1,97 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="image">
+        <span class="col-md-8">
+            <img src="http://www.stadt-wien.at/uploads/pics/Eigentumswohnung-Wien-kaufen_Rainer_Sturm_pixelio.de.jpg" class="img-rounded" width="650" height="150">
+            <h1 class="Titel panel-heading"><b>Kapitalisierungszinssätze</b></h1>
+        </span>
+
+        <div class="jumbotron">
+        Hier kann noch Beschreibungstext hinkommen...
+        </div>
+</div>
+</div>
+
+
+<div class="container">
+
+    <div id="karte"> </div>
+
+</div>
+
+
+
+<script>
+
+    var map = new L.map('karte').setView([48.208174, 16.373819], 13);
+    map.options.minZoom = 7;
+    map.options.maxZoom = 13;
+
+
+    var bmap = new L.tileLayer("https://{s}.wien.gv.at/basemap/bmaphidpi/normal/google3857/{z}/{y}/{x}.jpeg", {
+        subdomains: ['maps', 'maps1', 'maps2', 'maps3', 'maps4'],
+        attribution: '&copy; <a href="http://basemap.at">Basemap.at</a>',
+
+    });
+
+    var ortho = new L.tileLayer("https://{s}.wien.gv.at/basemap/bmaporthofoto30cm/normal/google3857/{z}/{y}/{x}.jpeg", {
+        subdomains: ['maps', 'maps1', 'maps2', 'maps3', 'maps4'],
+        attribution: '&copy; <a href="http://basemap.at">Basemap.at</a>'
+    });
+
+    map.addLayer(ortho, true)
+    map.addLayer(bmap, true)
+
+    var baseMaps = {
+        "Orthofoto": ortho,
+        "Basemap HiDpi": bmap
+    };
+
+    L.control.layers(baseMaps).addTo(map);
+
+    var baseMaps = {
+        "<span style='color: gray'>Basemap</span>": bmap,
+        "Orthofoto": ortho
+    };
+
+
+
+
+   
+    var pins_layer = L.geoJson(pins, {
+        onEachFeature: function (feature, pins_layer) {
+            pins_layer.bindPopup('<h4 style="font-family :Verdana sans-serif; text-decoration: underline;"><b>' + feature.properties.Strasse + ' ' + feature.properties.Hausnummer + '</b>' +
+                '<h5><p style="float:left;"><b>Kapitalisierungszinssatz: </b>' + feature.properties.kap_zinssatz + ' %</p>' +
+                '<h5><b><p>Stichtag: </b>' + feature.properties.stichtag + ' </p>' +
+                '<h5><b><p>KGNR: </b>' + feature.properties.kgnr + ' </p>' +
+                '<h5><b><p>KG-Name: </b>' + feature.properties.kg + ' </p>' +
+                '<h5><b><p>GST-NR: </b>' + feature.properties.grnr + ' </p> </br> <a href="/Home/Detail/'+feature.properties.id+'">Details</a>'
+                    )}
+               }).addTo(map);
+
+
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

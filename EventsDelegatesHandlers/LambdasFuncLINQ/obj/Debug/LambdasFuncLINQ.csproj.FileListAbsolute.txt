@@ -1,0 +1,7 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\bin\Debug\LambdasFuncLINQ.exe.config
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\bin\Debug\LambdasFuncLINQ.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\bin\Debug\LambdasFuncLINQ.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\obj\Debug\LambdasFuncLINQ.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\obj\Debug\LambdasFuncLINQ.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\obj\Debug\LambdasFuncLINQ.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\EventsDelegatesHandlers\LambdasFuncLINQ\obj\Debug\LambdasFuncLINQ.csprojResolveAssemblyReference.cache

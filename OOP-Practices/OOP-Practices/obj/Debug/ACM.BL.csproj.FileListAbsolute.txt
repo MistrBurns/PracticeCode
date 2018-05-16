@@ -1,0 +1,11 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\bin\Debug\OOP-Practices.dll
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\bin\Debug\OOP-Practices.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.dll
+D:\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\bin\Debug\OOP-Practices.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\bin\Debug\OOP-Practices.pdb
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.dll
+C:\Users\user\Dropbox\VS\Visual Studio 2017\Projects\OOP-Practices\OOP-Practices\obj\Debug\OOP-Practices.pdb

@@ -1,0 +1,101 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width:100%;
+}
+
+html{
+    width:100%;
+}
+
+div .navbar {
+    background-color: #353535;
+    border-color: white;
+   
+}
+
+ul.nav.navbar-nav li a {color:white}
+div.navbar-header a.navbar-brand {color: white}
+
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse  {
+   color:green ;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.nav navbar-nav immo > a:hover {color:green}
+
+div.navbar-header a.navbar-brand {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 18.5714px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+}
+
+ul.nav.navbar-nav.immo li a {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 18.5714px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+}
+
+#karte { height: 800px;
+         background-color: white;
+         width: 100%;
+}
+
+
+.image {
+    position: relative;
+    width: 100%; /* for IE 6 */
+    
+}
+
+h1.Titel.panel-heading {
+    font-size: 50px;
+    position: absolute;
+    top: 5px;
+    padding-left: 20px;
+    width: 100%;
+    text-align: left;
+    color: black;
+    background-color: darkgray; 
+    opacity: 0.8;
+    width:650px
+}
+
+div .image {
+    padding-top:10px;
+    padding-bottom:20px;
+    position:relative;
+    align-content:center;
+
+}
+
+div .jumbotron .col-md-4 {height:275px;
+                          
+}
+

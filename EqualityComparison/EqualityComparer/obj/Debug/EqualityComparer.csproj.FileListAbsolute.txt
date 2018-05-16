@@ -1,0 +1,10 @@
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparer.exe.config
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparer.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparer.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparison.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparison.pdb
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\bin\Debug\EqualityComparison.exe.config
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\obj\Debug\EqualityComparer.csprojResolveAssemblyReference.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\obj\Debug\EqualityComparer.csproj.CoreCompileInputs.cache
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\obj\Debug\EqualityComparer.exe
+D:\Dropbox\VS\Visual Studio 2017\Projects\EqualityComparison\EqualityComparer\obj\Debug\EqualityComparer.pdb
