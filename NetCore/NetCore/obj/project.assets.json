@@ -12535,29 +12535,23 @@
   },
   "packageFolders": {
     "C:\\Users\\chris\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Dokumente\\Temp\\Github\\PracticeCode\\NetCore\\NetCore\\NetCore.csproj",
+      "projectUniqueName": "D:\\Dokumente\\Github\\PracticeCode\\NetCore\\NetCore\\NetCore.csproj",
       "projectName": "NetCore",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Dokumente\\Temp\\Github\\PracticeCode\\NetCore\\NetCore\\NetCore.csproj",
+      "projectPath": "D:\\Dokumente\\Github\\PracticeCode\\NetCore\\NetCore\\NetCore.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Dokumente\\Temp\\Github\\PracticeCode\\NetCore\\NetCore\\obj\\",
+      "outputPath": "D:\\Dokumente\\Github\\PracticeCode\\NetCore\\NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
