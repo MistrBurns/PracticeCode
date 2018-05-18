@@ -35,4 +35,3 @@ namespace NetCore
         }
     }
 }
-6
