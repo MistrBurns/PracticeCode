@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.deps.json
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.json
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\chris\OneDrive\Dokumente\Temp\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.pdb
