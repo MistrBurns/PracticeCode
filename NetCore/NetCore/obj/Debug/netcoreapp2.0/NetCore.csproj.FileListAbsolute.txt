@@ -14,9 +14,9 @@ D:\Dokumente\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.dev.json
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.dll
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
-D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csprojAssemblyReference.cache
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csproj.CoreCompileInputs.cache
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfoInputs.cache
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfo.cs
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.dll
 D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.pdb
+D:\Dokumente\Github\PracticeCode\NetCore\NetCore\obj\Debug\netcoreapp2.0\NetCore.csprojAssemblyReference.cache
